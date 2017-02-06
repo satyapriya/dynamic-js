@@ -1,5 +1,4 @@
-console.log("hi")
-
 (function() {
+	console.log("hi");
     alert("came here");
 })
