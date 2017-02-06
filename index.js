@@ -1,4 +1,1 @@
-(function() {
-	console.log("hi");
-	alert("came here");
-})
+console.log("new change 1");
